@@ -1,1 +1,10 @@
-As a full stack developer, I have a strong understanding of both front-end and back-end development technologies. I am proficient in languages such as JavaScript, HTML, and CSS, as well as back-end technologies like Node Js  and MongoDB. I am also comfortable working with popular frameworks such as React, React Native and Express Js. In addition to my technical skills, I am a problem-solver and a quick learner who is always eager to learn new technologies and keep up-to-date with the latest developments in the industry. I am a team player and an effective communicator, and I am confident that I can contribute to the success of any project.
+Languages: HTML, CSS, JavaScript, Node Js
+
+Frameworks & Libraries: React, Express.Js, React Native, Next.Js, Bootstrap,
+Redux, Redux Persist
+
+DevOps: Git
+
+Databases: MongoDB
+
+Other: API, VS Code, Expo
